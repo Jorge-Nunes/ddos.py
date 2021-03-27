@@ -1,4 +1,7 @@
 #!/bin/bash
+cd $HOME
+    mv mb $PREFIX/bin/mb
+    chmod +x $PREFIX/bin/mb
 clear
 echo "INFORME SEU TOKEN"
 read TOKEN
