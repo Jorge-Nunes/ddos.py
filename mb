@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "INFORME SEU TOKEN"
-reais TOKEN
+read TOKEN
 echo "INFORME SEU NÚMERO (DDD+NÚMERO)"
 read NUMERO
 echo "QUANTAS VEZES DESEJA REPETIR?"
